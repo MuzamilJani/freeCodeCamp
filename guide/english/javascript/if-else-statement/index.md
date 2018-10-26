@@ -19,13 +19,13 @@ Multiple `if...else` statements can be chained to create an `else if` clause. Th
 
 ```javascript
 if (condition1)
-    /* do something */
+    /* block of code to be executed if the condition is true */
 else if (condition2)
-    /* do something else */
+    /* block of code to be executed if the condition is true */
 else if (condition3)
-    /* do something else */
+    /* block of code to be executed if the condition is true */
 else
-    /* final statement */
+    /* block of code to be executed if the condition is true */
 ```
 
 **Note:** If you want to execute more than one statement in the `if`, `else` or `else if` part, curly braces are required around the statements:
