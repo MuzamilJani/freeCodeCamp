@@ -2,6 +2,14 @@
 title: Panels
 ---
 ## Panels
+<p>Please read this if you want this or solve some</p>
+<p>Guess</p>
+<ul>
+  <li>noke noke</li>
+  <li>Helllo Noke Nokeee</li>
+  <li>I think No One r here ;(</li>
+</ul>
+
 
 The Bootstrap framework provides you with a feature called panels. A panel is a box that has a styled heading and then a body that allows you to display information in an organized manner, through a set of one or more panels.
 
